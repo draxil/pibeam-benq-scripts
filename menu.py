@@ -7,7 +7,8 @@ led.off()
 tx = IR_Transmitter
 tx = tx.NEC()
 
-data    = 79
+# menu button, just for testing really and less intense than turning on/off:
+data    = 15
 address = 12288
 
 for i in range(1,90):
@@ -15,4 +16,4 @@ for i in range(1,90):
     led.on()
     time.sleep(0.08)
     led.off()
-    time.sleep(0.08)
+    time.sleep(0.08)    
