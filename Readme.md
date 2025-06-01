@@ -6,7 +6,7 @@ Well in here are the scripts to do that, in my experience easiest ran with the m
 
 ```sh
 # turn the projector on!
-mpremote on.py 
+mpremote run on.py 
 ```
 
 See references:
