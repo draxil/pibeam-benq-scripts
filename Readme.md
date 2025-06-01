@@ -12,9 +12,10 @@ mpremote run on.py
 See references:
 
 https://github.com/sbcshop/PiBeam_Software
+https://docs.micropython.org/en/latest/reference/mpremote.html
 
 # Other users
 
-If you've found this and you don't have my exact use-case, it's probably still a useful starting point. You can record the codes for whatever remote you have using some of the example code that's in the pibeam repo, and then produce your own scripts.
+If you've found this and you don't have my exact use-case, it's probably still a useful starting point. You can record the codes for whatever remote you have using some of the example code that's in the pibeam repo [receiver_demo.py](https://github.com/sbcshop/PiBeam_Software/blob/main/examples/receiver_demo.py), and then produce your own scripts.
 
 If you have some other IR device these codes might still be useful for other BenQ owners.
